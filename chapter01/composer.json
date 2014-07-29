@@ -1,0 +1,14 @@
+{
+	"autoload": {
+		"classmap": [
+			"app/libraries",
+			"app/src/repository/",
+			"app/src/gateway/",
+			"app/src/factory/",
+			"app/src/"
+		]
+	},
+	"require": {
+		"phpunit/phpunit": "~3"
+	}
+}
